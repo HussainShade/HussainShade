@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Khizar+Hussain+Khan+👋;Full-Stack+Developer;Building+Scalable+SaaS+Applications;Next.js+%7C+Node.js+%7C+TypeScript+%7C+AI" />
+# 👋 Hey there, I'm Khizar Hussain Khan
 
-### Full Stack Developer | SaaS Engineer | Problem Solver
+### Software Engineer • Full Stack Developer • SaaS Builder
 
-Building modern web applications with clean architecture, scalable systems and great user experiences.
+Building scalable products, enterprise systems, and AI-powered applications.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Building+Scalable+SaaS+Applications;Node.js+%7C+Next.js+%7C+TypeScript;Backend+Architecture+%7C+DevOps;AI+Agents+%7C+Cloud+Native+Apps;Always+Learning+Something+New+🚀"/>
+
+<img src="https://komarev.com/ghpvc/?username=HussainShade&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -17,180 +17,229 @@ Building modern web applications with clean architecture, scalable systems and g
 # 🚀 About Me
 
 ```ts
-const khizar = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    experience: [
-        "MERN Stack",
-        "Next.js",
-        "Node.js",
-        "TypeScript",
-        "PostgreSQL",
-        "MongoDB",
-        "Prisma",
-        "Redis",
-        "Docker"
+class KhizarHussainKhan {
+  role = "Software Engineer";
+
+  location = "Hyderabad, India 🇮🇳";
+
+  currentFocus = [
+    "Agentic AI",
+    "System Design",
+    "Cloud Native Applications",
+    "Distributed Systems"
+  ];
+
+  techStack = {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
     ],
 
-    currentlyBuilding: [
-        "AI-powered SaaS Applications",
-        "Visitor Management System",
-        "Issue Ticketing Platform",
-        "Scalable Backend APIs"
+    backend: [
+      "Node.js",
+      "Express",
+      "Hono"
     ],
 
-    philosophy: "Build once. Scale forever."
-};
+    databases: [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Qdrant"
+    ],
+
+    devops: [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions"
+    ]
+  };
+
+  philosophy() {
+    return "Build once. Scale forever.";
+  }
+}
 ```
 
-- ⚡ Full-stack engineer passionate about building production-grade systems.
-- 🏗 Focused on scalable architecture and maintainable code.
-- 🤖 Exploring AI Agents, LLM integrations and automation.
-- 📚 Continuously learning advanced backend and cloud technologies.
-- 🚀 Interested in SaaS products, system design and distributed systems.
+* ⚡ Full-stack engineer with end-to-end ownership.
+* 🏗 Building enterprise-grade SaaS products.
+* 🤖 Exploring AI Agents and LLM applications.
+* ☁ Passionate about backend architecture and cloud-native systems.
+* 🚀 Focused on scalability, reliability and developer experience.
 
 ---
 
-# 🛠 Tech Stack
+# 🔥 Current Focus
 
-## Frontend
+* 🤖 Agentic AI
+* 🏗 System Design
+* 🐳 Docker & Kubernetes
+* ☁ Cloud Native Applications
+* ⚡ High Performance APIs
+* 📈 Scalable SaaS Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
-</p>
+---
 
-## Backend
+# 🛠 Tech Arsenal
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,prisma" />
-</p>
-
-## DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,aws" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgresql,redis,docker,kubernetes,aws,linux,git,github,postman,vscode,figma" />
 </p>
 
 ---
 
-# 💼 Featured Projects
+# 💼 Professional Experience
 
-### 🎫 Issue Ticketing SaaS
-Production-grade support and issue management platform.
+### Software Engineer
 
-**Tech Stack**
+#### Paltribe Solutions Pvt Ltd
 
-`React` • `Node.js` • `PostgreSQL` • `Prisma`
+* Built cloud-native SaaS products.
+* Integrated Redis, BullMQ and Qdrant DB.
+* Dockerized applications and orchestrated deployments using Kubernetes.
+* Developed enterprise CRM and inventory systems.
 
----
+### Junior Software Developer
 
-### 🏢 Visitor Management System
-Enterprise visitor management solution with approval workflows.
+#### Caresoft Technologies
 
-**Tech Stack**
+* Built SaaS and on-premise enterprise systems.
+* Designed PostgreSQL schemas with Prisma.
+* Managed deployments, domains and infrastructure.
+* Delivered custom client applications.
 
-`Next.js` • `MongoDB` • `TypeScript`
+### Full Stack Developer
 
----
+#### Morpho Technologies Pvt Ltd
 
-### 🤖 AI SaaS Platform
-AI-powered application with token management and billing.
-
-**Tech Stack**
-
-`Next.js` • `Redis` • `MongoDB`
-
----
-
-### 📦 Barcode & Process Validation Systems
-Industrial automation and manufacturing solutions.
+* Migrated legacy applications to Next.js.
+* Built scalable UI systems.
+* Integrated AI-driven APIs.
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 Featured Projects
 
-<div align="center">
+## 🧠 Buzbiz.AI
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+AI-powered CRM and business ecosystem.
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+`React Native` • `Node.js` • `MongoDB` • `Redis` • `BullMQ`
 
 ---
 
-# 📊 Most Used Languages
+## 📦 Multi Outlet Inventory Management SaaS
 
-<div align="center">
+Role-based inventory and warehouse platform.
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+`TypeScript` • `MongoDB` • `Docker` • `Kubernetes`
 
 ---
 
-# 🏆 Achievements
+## 🎫 HelpDesk Ticketing Platform
 
-- 🥇 Building production-ready SaaS products.
-- ⚡ Strong focus on backend engineering.
-- 🚀 Continuous learning and self-improvement.
-- 📚 Exploring AI Agents and Agentic Systems.
-- 🔥 Writing scalable and maintainable code.
+Cloud + On-Premise architecture.
+
+`Next.js` • `PostgreSQL` • `Prisma`
 
 ---
 
-# 🌱 Currently Learning
+## 🏢 Visitor Management System
+
+Offline-ready secure enterprise platform.
+
+`Next.js` • `NextAuth` • `PostgreSQL`
+
+---
+
+## 🚗 Smart Parking Management System
+
+Dynamic pricing and wallet system.
+
+`React Native` • `Cashfree` • `WebSockets`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HussainShade&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainShade&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussainShade&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📉 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HussainShade&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HussainShade&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📚 Currently Learning
 
 ```yaml
-System Design:
-  - Scalability
-  - Distributed Systems
-  - Microservices
-
 AI:
   - Agentic AI
   - MCP
   - LLM Applications
 
-Backend:
-  - Bun Runtime
-  - Redis
-  - Event Driven Architecture
+Architecture:
+  - Event Driven Systems
+  - Distributed Systems
+  - System Design
 
 Cloud:
   - Docker
+  - Kubernetes
   - CI/CD
-  - AWS
 ```
+
+---
+
+# 💡 Engineering Philosophy
+
+> Programs must be written for people to read, and only incidentally for machines to execute.
+
+— Harold Abelson
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+<a href="mailto:hussain2k47@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://linkedin.com/in/khizar-hussain-khan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://hussainkhan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -198,7 +247,5 @@ Cloud:
 <div align="center">
 
 ### ⚡ Building software that solves real-world problems.
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
